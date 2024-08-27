@@ -1,2 +1,5 @@
 # Arpspoof
-一个arp欺骗工具
+使用方法
+```python
+sudo python3 arpspoof.py [-i interface] [-g gateway] host
+```
