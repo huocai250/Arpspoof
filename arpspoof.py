@@ -1,6 +1,6 @@
 """
 by huocai
-qq 1332334007
+github:https://www.github.com/huocai250
 """
 import sys
 import time
